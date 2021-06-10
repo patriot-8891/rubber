@@ -11,7 +11,7 @@
     "lib/*.js"
   ],
   "peerDependencies": {
-    "ws": "^7.4.6"
+    "ws": "1.1.1"
   },
   "peerDependenciesMeta": {
     "ws": {
